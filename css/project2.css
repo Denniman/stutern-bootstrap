@@ -1,0 +1,37 @@
+body {
+    background: url(../image/pexels-macbook2.jpg) no-repeat center fixed;
+    background-size: cover;
+    font-family: 'Poppins', sans-serif;
+    height: 130vh;
+}
+
+.rowHeight {
+    height: 500px;
+}
+
+.header--main {
+    color: #000;
+}
+
+.bg {
+    background-color: #c1c1c1;
+    border-radius: 3px;
+    opacity: .8;
+}
+
+.img-size {
+    width: 100%;
+}
+
+.footer {
+    margin-top: 10px;
+    background-color: #fff;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+}
+
+.copyright--text {
+    font-size: 18px;
+    padding: 10px;
+}
