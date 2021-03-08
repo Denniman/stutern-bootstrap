@@ -1,0 +1,11 @@
+body {
+    background: url(../image/pexels-jeshootscom.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+
+.img {
+    width: 50%;
+    max-width: 100px;
+    max-height: 100px;
+    margin: 0 auto;
+}
